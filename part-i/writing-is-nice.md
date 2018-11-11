@@ -1,2 +1,6 @@
-# Writing is nice
+# SN74LV273A
+
+## Objective
+
+
 
