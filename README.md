@@ -17,6 +17,21 @@
   * Tools: Cadence - IC5131 Virtuoso, mmsim-Spectre, 2P2M 0.5um COMS; XManager5.0
   * Objectives: Calculate MOSFET W/L, reference circuits design, run simulation to satisfy given parameter. 
 
+### Research Experience
+
+* Undergraduate Thesis \(ongoing\), supervised by Prof. Xiaoyan Gui, Xi'an Jiaotong University, China
+  * Almost full time, Nov 2018 - Now
+  * Objective
+* Undergraduate Research Assistant, supervised by Prof. Jack Sankey, McGill University, Canada
+  * Full Time, Jun 2018 - Sep 2018
+  * Tools: Spectrum analyzer, probe station, acquisition card, python, etc
+  * Objectives: Construct spectrum analyzer and amplifier train, use wheatstone bridge, acqusition card, probe station to detect the magnetic noise from spin-transfer devices.
+* Undergraduate Research Assistant, supervised by Prof. Ming Ye, Xi'an Jiaotong University, China
+  * Part Time, Jan 2018 - Jun 2018
+  * Tools: CST, network analyzer, coplanar waveguide
+  * Objective: Bulid up a waveguide with a crack in middle, with the help of network analyze, to measure the sheet-resistance of the sample non-destructively.
+  * The work has been revised and submitted to _Integrated Circuits, Technologies and Applications \(ICTA 2018\)_
+
 ### Selected Honors/Awards
 
 * 2018.04  Undergraduate Internship Scholarship, CSC & MITACS 
