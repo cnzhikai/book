@@ -7,6 +7,9 @@
 * **B.E. expected Jun 2019**, Electronics Engineering, _Xi'an Jiaotong University, China_
 * **GPA: 89.25/100    Rank: ~top 6.7%**
 * **Relevant Courses**: Analog IC Design, Digital IC Design, Semiconductor Devices, Microelectronics Manufacturing Technology, Power Semiconductor Devices, Electromagmetic Field and Wave, Computer Architecture, Signal and System, Feedback Control Theory, Mathematical Modelling, Complex Analyses and Integral Transformation
+* **Standard Test Scores**
+  * TOEFL Test: 102 \(Reading 25; Listening 26; Speaking 23; Writing 28\)
+  * GRE Test: 323 \(Verbal 153; Quantitive 170; Analytical Writing 3.0\)
 
 ### Integrated Circuits Design Experience
 
